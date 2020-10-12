@@ -1,3 +1,3 @@
 package goexp
 
-var Message = "Hello World v0.0.1"
+var Message = "Hello World v0.0.2 untagged"
