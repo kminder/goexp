@@ -1,3 +1,3 @@
 package goexp
 
-var Message = "Hello World v0.0.4 tag2"
+var Message = "Hello World v0.0.5 non-semver tag"
